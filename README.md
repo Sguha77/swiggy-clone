@@ -52,3 +52,79 @@ It focuses on **UI replication, smooth navigation, and modern frontend practices
 
 ## 📂 Project Structure
 
+swiggy-clone/
+│
+├── public/ # Static assets
+├── src/
+│ ├── components/ # Reusable UI components
+│ ├── pages/ # Application pages
+│ ├── assets/ # Images & icons
+│ ├── App.tsx # Root component
+│ └── main.tsx # Entry point
+│
+├── package.json
+├── vite.config.ts
+└── README.md
+
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### 1️⃣ Clone the Repository
+
+git clone https://github.com/Sguha77/swiggy-clone.git
+
+2️⃣ Navigate to Project Folder
+
+cd swiggy-clone
+
+3️⃣ Install Dependencies
+
+npm install
+
+4️⃣ Start Development Server
+
+npm run dev
+
+📍 Open in browser :
+
+http://localhost:( your localhost )
+
+📦 Deployment :
+
+This project is deployed using Netlify.
+You can deploy your own version using:
+
+Netlify
+
+Vercel
+
+GitHub Pages (static build)
+
+🤝 Contributing :
+
+Contributions are always welcome!
+Fork the repository
+Create a new branch
+Make your changes
+Submit a Pull Request
+
+📜 License :
+
+This project is open-source and available for learning and portfolio use.
+
+🙌 Acknowledgements :
+
+Inspired by Swiggy
+
+Built with ❤️ using React & Vite
+
+Thanks to the open-source community
+
+⭐ If you like this project, give it a star on GitHub!
+Happy Coding 🚀
+
+---
