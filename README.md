@@ -1,63 +1,54 @@
-# 🍽️ Swiggy Clone
+# 🍔 Swiggy Clone – Food Delivery Web App
 
-A **Swiggy-inspired food delivery web app clone** built with modern web technologies — designed for learning, experimentation, and UI/UX replication of a food ordering platform similar to Swiggy. :contentReference[oaicite:0]{index=0}
+![Swiggy Clone Banner](https://user-images.githubusercontent.com/placeholder/banner.png)
 
-🔗 **Live Demo:** https://swiggy-cloning.netlify.app/ :contentReference[oaicite:1]{index=1}
-
----
-
-## 🚀 Project Overview
-
-This project replicates key visual and functional aspects of the Swiggy user experience, including browsing restaurants, viewing menus, and interacting with UI elements typical in food delivery apps. It's a frontend-focused clone and meant for educational or portfolio purposes — not a production-ready service.
-
----
-
-## 💡 Features
-
-✔️ Responsive interface resembling Swiggy’s layout  
-✔️ Restaurant listing pages  
-✔️ Menu browsing UI  
-✔️ Add to cart / food selection flows *(if implemented)*  
-✔️ Search and navigation components  
-✔️ Clean UI styled with utility-first CSS (Tailwind) *(if applicable)*
-
-> ⭐ Actual backend APIs and real order placement may not be implemented unless connected separately.
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Vite%20%7C%20React-blue" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178c6" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+  <img src="https://img.shields.io/badge/Deployment-Netlify-brightgreen" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 🌟 About the Project
 
-This project is built using:
+This **Swiggy Clone** is a frontend web application inspired by the popular food delivery platform **Swiggy**.  
+It focuses on **UI replication, smooth navigation, and modern frontend practices**, making it ideal for **learning, practice, and portfolio showcasing**.
 
-- **TypeScript** – for typed JavaScript development  
-- **Vite** – lightning-fast frontend tooling and build system  
-- **React** – component-driven UI (inferred based on structure)  
-- **Tailwind CSS** – utility-first styling *(if configured)*  
-- **Netlify** – deployed live demo hosting :contentReference[oaicite:2]{index=2}
-
-> ⚙️ The stack might differ if other frameworks/libraries are present in your code (update this section accordingly).
+> ⚠️ This project is for **educational purposes only** and is not affiliated with Swiggy.
 
 ---
 
-## 🛠️ Getting Started
+## 🔗 Live Demo
 
-### Prerequisites
+🚀 **Visit Here:**  
+👉 https://swiggy-cloning.netlify.app/
 
-Make sure you have the following installed:
+---
 
-- Node.js (v14 or newer)
-- npm / yarn / pnpm
+## ✨ Key Features
 
-### Clone & Install
+✅ Modern Swiggy-style UI  
+✅ Restaurant & food listing  
+✅ Menu browsing interface  
+✅ Responsive design (mobile + desktop)  
+✅ Clean component-based architecture  
+✅ Fast performance with Vite  
 
-```bash
-# Clone the repo
-git clone https://github.com/Sguha77/swiggy-clone.git
+---
 
-# Move to directory
-cd swiggy-clone
+## 🛠️ Tech Stack
 
-# Install dependencies
-npm install
-# or
-yarn
+| Technology | Usage |
+|-----------|-------|
+| **React** | UI Development |
+| **TypeScript** | Type-safe JavaScript |
+| **Vite** | Fast build & dev server |
+| **CSS / Tailwind** | Styling |
+| **Netlify** | Deployment |
+
+---
+
+## 📂 Project Structure
+
