@@ -3,6 +3,7 @@
 ![Swiggy Clone Banner](https://user-images.githubusercontent.com/placeholder/banner.png)
 
 <p align="center">
+  <img src="assests/preview.png" />
   <img src="https://img.shields.io/badge/Frontend-Vite%20%7C%20React-blue" />
   <img src="https://img.shields.io/badge/Language-TypeScript-3178c6" />
   <img src="https://img.shields.io/badge/Status-Active-success" />
