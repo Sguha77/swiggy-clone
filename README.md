@@ -52,7 +52,7 @@ It focuses on **UI replication, smooth navigation, and modern frontend practices
 
 ## 📂 Project Structure
 
-swiggy-clone/
+swiggy-clone/<br>
 │
 ├── public/ # Static assets
 ├── src/
