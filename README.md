@@ -53,18 +53,18 @@ It focuses on **UI replication, smooth navigation, and modern frontend practices
 ## 📂 Project Structure
 
 swiggy-clone/<br>
-│
-├── public/ # Static assets
-├── src/
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Application pages
-│ ├── assets/ # Images & icons
-│ ├── App.tsx # Root component
-│ └── main.tsx # Entry point
-│
-├── package.json
-├── vite.config.ts
-└── README.md
+│<br>
+├── public/ # Static assets<br>
+├── src/<br>
+│ ├── components/ # Reusable UI components<br>
+│ ├── pages/ # Application pages<br>
+│ ├── assets/ # Images & icons<br>
+│ ├── App.tsx # Root component<br>
+│ └── main.tsx # Entry point<br>
+│<br>
+├── package.json<br>
+├── vite.config.ts<br>
+└── README.md<br>
 
 
 ---
