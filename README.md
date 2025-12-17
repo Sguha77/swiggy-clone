@@ -1,7 +1,7 @@
 # 🍔 Swiggy Clone – Food Delivery Web App
 
-<p align="center" >![https://swiggy-cloning.netlify.app](assests/preview.png)
-</p>
+![https://swiggy-cloning.netlify.app](assests/preview.png)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Vite%20%7C%20React-blue" />
